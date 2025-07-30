@@ -12,14 +12,14 @@ export default function Home() {
       style={{ backgroundImage: "url('/background.jpg')" }}
     >
       {/* Footer */}
-
       <Link
         href="https://portfolio-itsmeprince.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
-        className="absolute bottom-1 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-xs">
+        className="absolute bottom-1 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white/30 text-xs">
         Made by 💙 @itsmeprinceyt
       </Link>
+
       {/* Main Content */}
       <div className="relative z-10 flex flex-col md:flex-row items-center gap-5  max-w-6xl w-full">
 

@@ -33,15 +33,13 @@ npm run dev
 ```
 ## `DOWNLOAD LINKS` ( or just visit my website instead )
 
-0. Download from website: 
+0. Download from website: https://file-encrypt-decrypter-website.vercel.app/
 
 1. Portable version which require no installation can be found in the root directory of this repository: `File Encrypter Decrypter 1.0.0.exe`
 https://www.dropbox.com/scl/fo/0tr3x1bifvo2g18yq8zku/ABWyAsNld_nXTPmNdtXGsUw?rlkey=axk51504gb378ahjajhgceefj&st=8keenkhp&dl=0
 
 2. Setup version which will let u install the program in your commputer and use it: `File Encrypter Decrypter Setup 1.0.0.exe`
 https://www.dropbox.com/scl/fo/0tr3x1bifvo2g18yq8zku/ABWyAsNld_nXTPmNdtXGsUw?rlkey=axk51504gb378ahjajhgceefj&st=8keenkhp&dl=0
-
-#
 
 ## Video 
 https://www.youtube.com/watch?v=e7MSCbvnSZs
