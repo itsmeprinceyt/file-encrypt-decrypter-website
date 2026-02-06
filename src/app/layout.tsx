@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "File Encrypter / Decrypter by ItsMe Prince",
   description:   "A powerful offline tool to securely encrypt and decrypt any file using AES-256-GCM encryption. No data leaves your machine.",
   applicationName: "File Encrypter / Decrypter",
-  authors: [{ name: "ItsMe Prince", url: "https://github.com/itsmeprince" }],
+  authors: [{ name: "ItsMe Prince", url: "https://github.com/itsmeprinceyt" }],
   creator: "ItsMe Prince",
   keywords: [
     "AES-256",
