@@ -4,9 +4,10 @@ import { Suspense } from "react";
 import Loader from "../(components)/Loader";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://file-encrypt-decrypter-website.vercel.app/'),
+  metadataBase: new URL("https://file-encrypt-decrypter-website.vercel.app/"),
   title: "File Encrypter / Decrypter by ItsMe Prince",
-  description:   "A powerful offline tool to securely encrypt and decrypt any file using AES-256-GCM encryption. No data leaves your machine.",
+  description:
+    "A powerful offline tool to securely encrypt and decrypt any file using AES-256-GCM encryption. No data leaves your machine.",
   applicationName: "File Encrypter / Decrypter",
   authors: [{ name: "ItsMe Prince", url: "https://github.com/itsmeprinceyt" }],
   creator: "ItsMe Prince",
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     "offline security tool",
     "secure file transfer",
     "privacy",
-    "encryption app"
+    "encryption app",
   ],
   icons: {
     icon: "/logo-png.png",
@@ -33,9 +34,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`antialiased select-none`}>
-        <Suspense fallback={<Loader/>}>
-        {children}
-        </Suspense>
+        <Suspense fallback={<Loader />}>{children}</Suspense>
       </body>
     </html>
   );
